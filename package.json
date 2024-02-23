@@ -2,7 +2,7 @@
   "name": "spunk",
   "version": "1.0.0",
   "description": "palworld server bot",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "start": "node dist/index.js",
